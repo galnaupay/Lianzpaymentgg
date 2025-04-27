@@ -10,7 +10,7 @@ const PAYMENT_DATA = {
     trakteer: "https://trakteer.id/example",
     saweria: "https://saweria.co/example",
     buymeacoffee: "https://www.buymeacoffee.com/example",
-    qris: "https://deposit.pictures/p/a8c60795fb1d4166818786dc1a315aa5"
+    qris: "https://deposit.pictures/p/13a16c4ca5174e29b70dd5cebacadee6"
 };
 
 // DOM Elements
