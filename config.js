@@ -5,7 +5,7 @@ const PAYMENT_DATA = {
     ovo: "gada",
     bri: "gada",
     bni: "gada",
-    wa: "https://wa.me/6281248845231",
+    wa: "https://wa.me/6288801384376",
     email: "kzy.help@gmail.com",
     trakteer: "https://trakteer.id/example",
     saweria: "https://saweria.co/example",
